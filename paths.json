@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/praffuls/696edc439dc9d74ce62b2899/:/",
-      "/content/praffuls/696edc439dc9d74ce62b2899/configuration:/.helix/config.json",
-      "/content/praffuls/696edc439dc9d74ce62b2899/metadata:/metadata.json",
-      "/content/praffuls/696edc439dc9d74ce62b2899/configs:/configs.json",
-      "/content/praffuls/696edc439dc9d74ce62b2899/configs-stage:/configs-stage.json",
-      "/content/praffuls/696edc439dc9d74ce62b2899/configs-dev:/configs-dev.json",
-      "/content/praffuls/696edc439dc9d74ce62b2899/redirects:/redirects.json",
-      "/content/praffuls/696edc439dc9d74ce62b2899/placeholders:/placeholders.json",
-      "/content/praffuls/696edc439dc9d74ce62b2899/products/recommended-products:/products/recommended-products.json",
-      "/content/praffuls/696edc439dc9d74ce62b2899/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/praffuls/696edc439dc9d74ce62b2899/images/products/:/images/products/"
+      "/content/adeng/6a0c7c1ee815815bf04d604e/:/",
+      "/content/adeng/6a0c7c1ee815815bf04d604e/configuration:/.helix/config.json",
+      "/content/adeng/6a0c7c1ee815815bf04d604e/metadata:/metadata.json",
+      "/content/adeng/6a0c7c1ee815815bf04d604e/configs:/configs.json",
+      "/content/adeng/6a0c7c1ee815815bf04d604e/configs-stage:/configs-stage.json",
+      "/content/adeng/6a0c7c1ee815815bf04d604e/configs-dev:/configs-dev.json",
+      "/content/adeng/6a0c7c1ee815815bf04d604e/redirects:/redirects.json",
+      "/content/adeng/6a0c7c1ee815815bf04d604e/placeholders:/placeholders.json",
+      "/content/adeng/6a0c7c1ee815815bf04d604e/products/recommended-products:/products/recommended-products.json",
+      "/content/adeng/6a0c7c1ee815815bf04d604e/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/adeng/6a0c7c1ee815815bf04d604e/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/praffuls/696edc439dc9d74ce62b2899",
+      "/content/adeng/6a0c7c1ee815815bf04d604e",
       "/content/dam/citisignal/images/products/"
     ]
 }
